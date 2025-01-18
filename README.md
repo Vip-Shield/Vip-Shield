@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Typescript
 - 💬 Contrate-me no e-mail: rodrigo.sc.neo@gmail.com
-- 📫 How to reach me: ...
+- 📫 Acesse minha Loaja Virtual <a href="www.adindescontos.com">Adín Descontos.com</>
 - 😄 Pronouns: Para de palhaçada
 - ⚡ Fun fact: ...
 <div>
