@@ -4,7 +4,7 @@
 - 🌱 Estudando Typescript
 - 💬 Contrate-me no e-mail: rodrigo.sc.neo@gmail.com
 - 📫 Visite minha Loja Virtual <a href="https://www.adindescontos.com">www.AdìnDescontos.com</a>
-- 😄 Pronouns: Para de palhaçada
+- 😄 Pronouns: Para de palhaçada e vai trabalhar
 - ⚡ Fun fact: ...
 <div>
   <a href="https://github.com/vip-shield">
